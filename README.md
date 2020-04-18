@@ -32,3 +32,10 @@ In the folder / volume / backend / public
 ```bash
 docker exec -it backend bash
 ```
+
+## URLs access
+look at the correct ip with ipconfig command
+
+**PHP server adress** [http://192.168.33.225:8000/](http://192.168.33.225:8000/)
+
+**phpmyadmin server adress** [http://192.168.33.225:8080/](http://192.168.33.225:8080/)
