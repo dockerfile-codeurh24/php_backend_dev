@@ -1,2 +1,0 @@
-docker run -d --rm -p 8080:80 -p 8000:8000 --name backend -v %CD%/volume:/volume --ip 192.168.33.225 php_backend_dev
-docker exec -it backend
